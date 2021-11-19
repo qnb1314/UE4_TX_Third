@@ -15,3 +15,12 @@
 
 网盘链接：https://pan.baidu.com/s/1Pu7aQyWU1DxFSPU1NeJ04A 
 提取码：03t3
+
+
+三.
+乔南-腾讯游戏客户端公开课第六次作业--《基本物理》
+
+微云链接：https://share.weiyun.com/qSLRSl6A
+
+网盘链接：https://pan.baidu.com/s/16tyBI8VpCHWqqxa5n6yHZQ
+提取码：rfop
