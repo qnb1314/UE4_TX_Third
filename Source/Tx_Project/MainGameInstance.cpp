@@ -6,6 +6,11 @@
 
 UMainGameInstance* UMainGameInstance::instance = nullptr;
 
+void UMainGameInstance::endattack()
+{
+	EndAttackEvent.Broadcast();
+}
+
 void UMainGameInstance::emitEvent()
 {
 	testEvent.Broadcast();
