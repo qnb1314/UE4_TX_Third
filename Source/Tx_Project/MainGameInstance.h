@@ -22,6 +22,11 @@ public:
 public:
 	UPROPERTY(BlueprintAssignable, Category = "my_event")
 		FdefaultEvent testEvent;
+	UPROPERTY(BlueprintAssignable, Category = "my_event")
+		FdefaultEvent EndAttackEvent;
+
+	UFUNCTION(BlueprintCallable, Category = "my_event")
+		void endattack();
 	UFUNCTION(BlueprintCallable, Category = "my_event")
 		void emitEvent();
 	UPROPERTY(BlueprintAssignable, Category = "my_event")
