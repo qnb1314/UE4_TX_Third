@@ -1,11 +1,12 @@
 # UE4_TX_Third
 零、
-光子大作业-腾讯游戏客户端公开课大作业
+乔南-光子大作业-腾讯游戏客户端公开课大作业
 
 微云链接:https://share.weiyun.com/xoqirT4B
 
 网盘链接：https://pan.baidu.com/s/1M5yn8y5nWvJ-li0tmd5JmA
 提取码：r0u4
+
 
 
 一.
@@ -42,3 +43,12 @@
 
 网盘链接：https://pan.baidu.com/s/1H_teYCiCW7Q9AOH21MrYEw
 提取码：7vau
+
+
+五.
+乔南-腾讯游戏客户端公开课第八次作业--《渲染基础》
+
+微云链接：https://share.weiyun.com/KwlCr6dD
+
+网盘链接：https://pan.baidu.com/s/1XCVaZr5u4k9LIm-A2UCu3Q
+提取码：uudl
