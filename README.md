@@ -52,3 +52,12 @@
 
 网盘链接：https://pan.baidu.com/s/1XCVaZr5u4k9LIm-A2UCu3Q
 提取码：uudl
+
+
+六.
+乔南-腾讯游戏客户端公开课第九次作业--《AI基础》
+
+微云链接：https://share.weiyun.com/5GKmT8ZI
+
+网盘链接：https://pan.baidu.com/s/1OsxAFDrIjkV-1FyT5uoEuA
+提取码：noy0
